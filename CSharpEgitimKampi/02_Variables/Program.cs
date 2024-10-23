@@ -13,7 +13,7 @@ namespace _02_Variables
       static void Main(string[] args)
       {
          Console.OutputEncoding = Encoding.UTF8;
-         #region Double Değişkenler ve kullanım alanları
+         #region Double Değişkenler
 
          Console.WriteLine("******************");
 
